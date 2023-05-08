@@ -8,7 +8,7 @@ public class App {
     private static final String MESSAGE1 = "hello my name is sanjeev.. this msg is been printed over a black ship ";
     
     
-    private static final String MESSAGE2 = "hello my name .......apple ";
+    private static final String MESSAGE2 = "MUSTANG IS BEST FOR APPLE.. .......apple ";
 
 
 
