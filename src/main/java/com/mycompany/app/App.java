@@ -7,6 +7,12 @@ public class App {
 
     private static final String MESSAGE = "hello my name is sanjeev.. this msg is been printed over a black ship ";
 
+
+    private static final String MESSAGE = "all the way to test ...... ";
+
+
+
+
     public App() {}
 
     public static void main(String[] args) {
